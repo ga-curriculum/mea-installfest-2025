@@ -2,30 +2,23 @@ import "https://pages.git.generalassemb.ly/modular-curriculum-all-courses/univer
 
 // Add microlessons here, in the order they should be delivered
 
-setup = new Template.Microlesson {
-  friendlyName = "Setup"
-  dirName = "setup"
+whizlabsVirtualWorkspaces = new Template.Microlesson {
+  friendlyName = "WhizLabs Virtual Workspaces"
+  dirName = "whizlabs-virtual-workspaces"
   type = "Content"
   videoUrl = ""
 }
 
-concepts = new Template.Microlesson {
-  friendlyName = "Concepts"
-  dirName = "concepts"
+whizlabsAwsSandbox = new Template.Microlesson {
+  friendlyName = "WhizLabs AWS Sandbox"
+  dirName = "whizlabs-aws-sandbox"
   type = "Content"
   videoUrl = ""
 }
 
-microlesson01 = new Template.Microlesson {
-  friendlyName = "Microlesson 01"
-  dirName = "microlesson-01"
-  type = "Content"
-  videoUrl = ""
-}
-
-microlesson02 = new Template.Microlesson {
-  friendlyName = "Microlesson 02"
-  dirName = "microlesson-02"
+connectingWorkspacesToGitViaSsh = new Template.Microlesson {
+  friendlyName = "Connecting WorkSpaces to Git via SSH"
+  dirName = "connecting-workspaces-to-git-via-ssh"
   type = "Content"
   videoUrl = ""
 }

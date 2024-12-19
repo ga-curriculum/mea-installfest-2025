@@ -1,10 +1,10 @@
 <h1>
-  <span class="headline">[tktk Headline]</span>
+  <span class="headline">Modern Engineering Installfest 2025</span>
   <span class="subhead">References</span>
 </h1>
 
 ## Lesson references
 
-- [tktk descriptive name of link](https://generalassemb.ly/tktk)
-- [tktk descriptive name of link](https://generalassemb.ly/tktk)
-- [tktk descriptive name of link](https://generalassemb.ly/tktk)
+- [https://business.whizlabs.com](https://business.whizlabs.com)
+- [Amazon WorkSpaces Client Download](https://clients.amazonworkspaces.com/)
+- [Create a GA Github Enterprise Account](http://git-invite.generalassemb.ly/)
