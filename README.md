@@ -28,7 +28,7 @@ This module prepares students to access and configure their AWS Workspaces for t
 
 ### Course landing pages
 
-- [tktk-course-acronym - tktk Course Full Name](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/mea-installfest-2025/canvas-landing-pages/tktk-course-acronym.html)
+- [MEA - Modern Engineering](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/mea-installfest-2025/canvas-landing-pages/mea.html)
 - [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/mea-installfest-2025/canvas-landing-pages/fallback.html)
 
 ### Resources
