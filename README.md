@@ -1,6 +1,6 @@
 <h1>
   <span class="prefix"></span>
-  <span class="headline">Modern Engineering Installfest 2025</span>
+  <span class="headline">Modern Engineering (MEA) Installfest 2025</span>
 </h1>
 
 ## About
