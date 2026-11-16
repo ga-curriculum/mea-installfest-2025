@@ -166,7 +166,7 @@ To make it easier, we’ll use a script to set up your SSH key and configure it 
 1. Test your connection to GitHub in the terminal:
 
    ```bash
-   ssh -T git@git.generalassemb.ly
+   ssh -T git@github.com
    ```
 
 ## Setting up a global `.gitignore` ( Optional )
